@@ -1,0 +1,2 @@
+include versioneer.py
+include python_package_skeleton/_version.py
