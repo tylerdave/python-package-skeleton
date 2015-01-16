@@ -6,7 +6,7 @@ versioneer.VCS = 'git'
 versioneer.versionfile_source = 'python_package_skeleton/_version.py'
 versioneer.versionfile_build = 'python_package_skeleton/_version.py'
 versioneer.tag_prefix = ''
-versioneer.parentdir_prefix = 'pyhton-package-skeleton-'
+versioneer.parentdir_prefix = 'python-package-skeleton-'
 
 with open('README.rst') as f:
     readme = f.read()
